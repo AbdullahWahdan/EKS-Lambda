@@ -1,0 +1,16 @@
+{
+  "name": "s3-to-sns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.864.0",
+    "axios": "^1.11.0"
+  },
+  "description": ""
+}
